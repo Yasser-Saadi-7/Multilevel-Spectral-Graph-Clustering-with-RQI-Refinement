@@ -1,0 +1,2 @@
+# Multilevel-Spectral-Graph-Clustering-with-RQI-Refinement
+This project implements a Multilevel Spectral Bisection algorithm to partition an undirected unweighted graph into two distinct clusters. The workflow involves generating a synthetic graph based on a Stochastic Block Model (SBM), coarsening it via Maximal Independent Set (MIS), and refining the partition using Rayleigh Quotient Iteration (RQI).
